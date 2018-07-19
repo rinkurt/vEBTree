@@ -1,0 +1,10 @@
+﻿  main.cpp
+d:\workspace\visual studio 2017\projects\hitsd_final\hitsd_final\veb.h(19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\workspace\visual studio 2017\projects\hitsd_final\hitsd_final\veb.h(23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\workspace\visual studio 2017\projects\hitsd_final\hitsd_final\main.cpp(24): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\workspace\visual studio 2017\projects\hitsd_final\hitsd_final\main.cpp(79): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+d:\workspace\visual studio 2017\projects\hitsd_final\hitsd_final\main.cpp(105): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  hitsd_final.vcxproj -> D:\Workspace\Visual Studio 2017\Projects\hitsd_final\Debug\hitsd_final.exe
+  hitsd_final.vcxproj -> D:\Workspace\Visual Studio 2017\Projects\hitsd_final\Debug\hitsd_final.pdb (Partial PDB)
